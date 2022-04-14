@@ -336,6 +336,10 @@ section {
   padding: .5rem 0;
 }
 
+.train .list li a {
+  color: #fff;
+}
+
 .highlights {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -490,6 +494,10 @@ section {
 
 .footer .link .content {
   margin-left: 2rem;
+}
+
+.footer .link .content a {
+  color: #fff;
 }
 
 .footer .introduce {
